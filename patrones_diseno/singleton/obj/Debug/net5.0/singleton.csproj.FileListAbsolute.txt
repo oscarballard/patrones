@@ -1,0 +1,16 @@
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\bin\Debug\net5.0\singleton.exe
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\bin\Debug\net5.0\singleton.deps.json
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\bin\Debug\net5.0\singleton.runtimeconfig.json
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\bin\Debug\net5.0\singleton.runtimeconfig.dev.json
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\bin\Debug\net5.0\singleton.dll
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\bin\Debug\net5.0\ref\singleton.dll
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\bin\Debug\net5.0\singleton.pdb
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\obj\Debug\net5.0\singleton.csprojAssemblyReference.cache
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\obj\Debug\net5.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\obj\Debug\net5.0\singleton.AssemblyInfoInputs.cache
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\obj\Debug\net5.0\singleton.AssemblyInfo.cs
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\obj\Debug\net5.0\singleton.csproj.CoreCompileInputs.cache
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\obj\Debug\net5.0\singleton.dll
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\obj\Debug\net5.0\ref\singleton.dll
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\obj\Debug\net5.0\singleton.pdb
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\singleton\obj\Debug\net5.0\singleton.genruntimeconfig.cache

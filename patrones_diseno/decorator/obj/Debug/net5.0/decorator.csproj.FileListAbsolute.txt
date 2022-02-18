@@ -1,0 +1,16 @@
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\bin\Debug\net5.0\decorator.exe
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\bin\Debug\net5.0\decorator.deps.json
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\bin\Debug\net5.0\decorator.runtimeconfig.json
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\bin\Debug\net5.0\decorator.runtimeconfig.dev.json
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\bin\Debug\net5.0\decorator.dll
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\bin\Debug\net5.0\ref\decorator.dll
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\bin\Debug\net5.0\decorator.pdb
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\obj\Debug\net5.0\decorator.csprojAssemblyReference.cache
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\obj\Debug\net5.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\obj\Debug\net5.0\decorator.AssemblyInfoInputs.cache
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\obj\Debug\net5.0\decorator.AssemblyInfo.cs
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\obj\Debug\net5.0\decorator.csproj.CoreCompileInputs.cache
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\obj\Debug\net5.0\decorator.dll
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\obj\Debug\net5.0\ref\decorator.dll
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\obj\Debug\net5.0\decorator.pdb
+C:\Users\OSCAR\Desktop\programacion2\patrones_diseno\decorator\obj\Debug\net5.0\decorator.genruntimeconfig.cache
